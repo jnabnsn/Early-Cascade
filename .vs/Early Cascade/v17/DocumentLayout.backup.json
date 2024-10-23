@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C_C\u002B\u002B_Code\\Early Cascade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB36026-661C-46E1-B898-C0E0DD92BFB7}|Early Cascade\\Early Cascade.vcxproj|E:\\C_C\u002B\u002B_Code\\Early Cascade\\Early Cascade\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECB36026-661C-46E1-B898-C0E0DD92BFB7}|Early Cascade\\Early Cascade.vcxproj|solutionrelative:Early Cascade\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB36026-661C-46E1-B898-C0E0DD92BFB7}|Early Cascade\\Early Cascade.vcxproj|E:\\C_C\u002B\u002B_Code\\Early Cascade\\Early Cascade\\includes\\hde64.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECB36026-661C-46E1-B898-C0E0DD92BFB7}|Early Cascade\\Early Cascade.vcxproj|solutionrelative:Early Cascade\\includes\\hde64.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB36026-661C-46E1-B898-C0E0DD92BFB7}|Early Cascade\\Early Cascade.vcxproj|E:\\C_C\u002B\u002B_Code\\Early Cascade\\Early Cascade\\includes\\hde64.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECB36026-661C-46E1-B898-C0E0DD92BFB7}|Early Cascade\\Early Cascade.vcxproj|solutionrelative:Early Cascade\\includes\\hde64.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB36026-661C-46E1-B898-C0E0DD92BFB7}|Early Cascade\\Early Cascade.vcxproj|E:\\C_C\u002B\u002B_Code\\Early Cascade\\Early Cascade\\defs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECB36026-661C-46E1-B898-C0E0DD92BFB7}|Early Cascade\\Early Cascade.vcxproj|solutionrelative:Early Cascade\\defs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hde64.cpp",
+              "DocumentMoniker": "E:\\C_C\u002B\u002B_Code\\Early Cascade\\Early Cascade\\includes\\hde64.cpp",
+              "RelativeDocumentMoniker": "Early Cascade\\includes\\hde64.cpp",
+              "ToolTip": "E:\\C_C\u002B\u002B_Code\\Early Cascade\\Early Cascade\\includes\\hde64.cpp",
+              "RelativeToolTip": "Early Cascade\\includes\\hde64.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T10:14:56.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hde64.h",
+              "DocumentMoniker": "E:\\C_C\u002B\u002B_Code\\Early Cascade\\Early Cascade\\includes\\hde64.h",
+              "RelativeDocumentMoniker": "Early Cascade\\includes\\hde64.h",
+              "ToolTip": "E:\\C_C\u002B\u002B_Code\\Early Cascade\\Early Cascade\\includes\\hde64.h",
+              "RelativeToolTip": "Early Cascade\\includes\\hde64.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-22T10:14:53.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "defs.h",
+              "DocumentMoniker": "E:\\C_C\u002B\u002B_Code\\Early Cascade\\Early Cascade\\defs.h",
+              "RelativeDocumentMoniker": "Early Cascade\\defs.h",
+              "ToolTip": "E:\\C_C\u002B\u002B_Code\\Early Cascade\\Early Cascade\\defs.h",
+              "RelativeToolTip": "Early Cascade\\defs.h",
+              "ViewState": "AgIAAGEBAAAAAAAAAAAUwHkBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-22T07:46:50.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\C_C\u002B\u002B_Code\\Early Cascade\\Early Cascade\\main.cpp",
+              "RelativeDocumentMoniker": "Early Cascade\\main.cpp",
+              "ToolTip": "E:\\C_C\u002B\u002B_Code\\Early Cascade\\Early Cascade\\main.cpp",
+              "RelativeToolTip": "Early Cascade\\main.cpp",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAlwIsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T07:29:24.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

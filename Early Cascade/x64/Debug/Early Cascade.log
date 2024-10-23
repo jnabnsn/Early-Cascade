@@ -1,0 +1,28 @@
+﻿  main.cpp
+E:\C_C++_Code\Early Cascade\Early Cascade\defs.h(110,9): warning C4005: “LOBYTE”: 宏重定义
+  (编译源文件“main.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(206,9):
+      参见“LOBYTE”的前一个定义
+  
+E:\C_C++_Code\Early Cascade\Early Cascade\defs.h(111,9): warning C4005: “LOWORD”: 宏重定义
+  (编译源文件“main.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(204,9):
+      参见“LOWORD”的前一个定义
+  
+E:\C_C++_Code\Early Cascade\Early Cascade\defs.h(113,9): warning C4005: “HIBYTE”: 宏重定义
+  (编译源文件“main.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(207,9):
+      参见“HIBYTE”的前一个定义
+  
+E:\C_C++_Code\Early Cascade\Early Cascade\defs.h(114,9): warning C4005: “HIWORD”: 宏重定义
+  (编译源文件“main.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(205,9):
+      参见“HIWORD”的前一个定义
+  
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(56,71): warning C4244: “=”: 从“DWORD64”转换到“unsigned char”，可能丢失数据
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(61,72): warning C4244: “=”: 从“DWORD64”转换到“unsigned char”，可能丢失数据
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(66,72): warning C4244: “=”: 从“DWORD64”转换到“unsigned char”，可能丢失数据
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(71,72): warning C4244: “=”: 从“DWORD64”转换到“unsigned char”，可能丢失数据
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(150,9): warning C4477: “printf”: 格式字符串“%llx”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“LPVOID”
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(154,9): warning C4477: “printf”: 格式字符串“%llx”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“LPVOID”
+  Early Cascade.vcxproj -> E:\C_C++_Code\Early Cascade\x64\Debug\Early Cascade.exe

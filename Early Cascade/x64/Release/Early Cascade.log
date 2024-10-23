@@ -1,0 +1,63 @@
+﻿  main.cpp
+E:\C_C++_Code\Early Cascade\Early Cascade\defs.h(110,9): warning C4005: “LOBYTE”: 宏重定义
+  (编译源文件“main.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(206,9):
+      参见“LOBYTE”的前一个定义
+  
+E:\C_C++_Code\Early Cascade\Early Cascade\defs.h(111,9): warning C4005: “LOWORD”: 宏重定义
+  (编译源文件“main.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(204,9):
+      参见“LOWORD”的前一个定义
+  
+E:\C_C++_Code\Early Cascade\Early Cascade\defs.h(113,9): warning C4005: “HIBYTE”: 宏重定义
+  (编译源文件“main.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(207,9):
+      参见“HIBYTE”的前一个定义
+  
+E:\C_C++_Code\Early Cascade\Early Cascade\defs.h(114,9): warning C4005: “HIWORD”: 宏重定义
+  (编译源文件“main.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(205,9):
+      参见“HIWORD”的前一个定义
+  
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(60,71): warning C4244: “=”: 从“DWORD64”转换到“unsigned char”，可能丢失数据
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(65,72): warning C4244: “=”: 从“DWORD64”转换到“unsigned char”，可能丢失数据
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(70,72): warning C4244: “=”: 从“DWORD64”转换到“unsigned char”，可能丢失数据
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(75,72): warning C4244: “=”: 从“DWORD64”转换到“unsigned char”，可能丢失数据
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(161,9): warning C4477: “printf”: 格式字符串“%llx”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“LPVOID”
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(165,9): warning C4477: “printf”: 格式字符串“%llx”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“LPVOID”
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(258,25): warning C4838: 从“int”转换到“char”需要收缩转换
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(258,25): warning C4309: “初始化”: 截断常量值
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(258,31): warning C4838: 从“int”转换到“char”需要收缩转换
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(258,31): warning C4309: “初始化”: 截断常量值
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(258,37): warning C4838: 从“int”转换到“char”需要收缩转换
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(258,37): warning C4309: “初始化”: 截断常量值
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(258,43): warning C4838: 从“int”转换到“char”需要收缩转换
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(258,43): warning C4309: “初始化”: 截断常量值
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(276,27): warning C4838: 从“int”转换到“char”需要收缩转换
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(276,27): warning C4309: “初始化”: 截断常量值
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(276,39): warning C4838: 从“int”转换到“char”需要收缩转换
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(276,39): warning C4309: “初始化”: 截断常量值
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(276,45): warning C4838: 从“int”转换到“char”需要收缩转换
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(276,45): warning C4309: “初始化”: 截断常量值
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(276,69): warning C4838: 从“int”转换到“char”需要收缩转换
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(276,69): warning C4309: “初始化”: 截断常量值
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(276,75): warning C4838: 从“int”转换到“char”需要收缩转换
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(276,75): warning C4309: “初始化”: 截断常量值
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(293,40): warning C4838: 从“int”转换到“char”需要收缩转换
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(293,40): warning C4309: “初始化”: 截断常量值
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(293,46): warning C4838: 从“int”转换到“char”需要收缩转换
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(293,46): warning C4309: “初始化”: 截断常量值
+E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(336,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“SIZE_T”
+      E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(336,9):
+      请考虑在格式字符串中使用“%lld”
+      E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(336,9):
+      请考虑在格式字符串中使用“%Id”
+      E:\C_C++_Code\Early Cascade\Early Cascade\main.cpp(336,9):
+      请考虑在格式字符串中使用“%I64d”
+  
+  正在生成代码
+  3 of 19 functions (15.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Early Cascade.vcxproj -> E:\C_C++_Code\Early Cascade\x64\Release\Early Cascade.exe
